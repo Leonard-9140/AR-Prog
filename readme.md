@@ -33,7 +33,7 @@
 
 ## 使用方法
 **方法一(推薦)**
-使用以本專案內容製作之GPT機器人
+使用以本專案內容製作之GPT機器人，輸入 `/start`以開始對話
 - 聖訓基礎學習機器人
 https://chatgpt.com/g/g-67ead1deae948191b043cbf8c7f3763a-yong-sheng-xun-xue-a-la-bo-yu
 
@@ -41,7 +41,7 @@ https://chatgpt.com/g/g-67ead1deae948191b043cbf8c7f3763a-yong-sheng-xun-xue-a-la
 https://chatgpt.com/g/g-67ead3bafc448191ad2eee494e37b74d-a-la-bo-yu-xue-xi-ji-yu-dong-ci-shi-shi
 
 **方法二(免費方案使用者推薦)**
-- 選定你要使用的提示詞與AI模型(建議使用Chat GPT-4o，付費方案佳)
+- 選定你要使用的提示詞與AI模型，打開專案內`.txt`結尾之文件並複製檔案中所有文字(建議使用Chat GPT-4o，付費方案佳，其他AI推薦使用Claude)
 - 於對話欄或專案功能所提供的指令欄位輸入前項複製之提示詞(prompt)
 - 啟動聖訓學習模式：輸入指令 `/start`。
 - 啟動詞根衍生學習模式：輸入指令 `/start`。
@@ -52,6 +52,11 @@ https://chatgpt.com/g/g-67ead3bafc448191ad2eee494e37b74d-a-la-bo-yu-xue-xi-ji-yu
 - 🧠 根據阿拉伯語特有的詞根系統加深記憶，降低學習負擔
 - 📖 透過文化底蘊濃厚的內容，增進語言與文化的雙重理解
 
-
+## 版本紀錄
+**v0.1(BETA)**
+- Minimum Viable Product
+- 可使用 `/start`啟用機器人的基本功能
+- 開放GPT bot直接使用
+- 推薦使用Chat GPT-4o模型
 
 
