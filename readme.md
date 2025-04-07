@@ -64,4 +64,6 @@ https://chatgpt.com/g/g-67ead3bafc448191ad2eee494e37b74d-a-la-bo-yu-xue-xi-ji-yu
 - 開放GPT bot直接使用
 - 推薦使用Chat GPT-4o模型
 
-
+**v0.2(Apr.7, 2025)**
+- 加入動詞十式動詞衍生器bot的啟動提示詞
+- 版本紀錄加入日期戳記
