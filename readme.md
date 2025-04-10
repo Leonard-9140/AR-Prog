@@ -75,4 +75,4 @@ https://chatgpt.com/g/g-67ead3bafc448191ad2eee494e37b74d-a-la-bo-yu-xue-xi-ji-yu
 
 **v0.2.1(Apr.11, 2025)**
 - 新增錯誤回報及許願池表單
-- 修改中文版readme.md內容細節
+- 修改readme.md內容細節
