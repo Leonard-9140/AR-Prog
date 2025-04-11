@@ -53,7 +53,7 @@ https://chatgpt.com/g/g-67ead1deae948191b043cbf8c7f3763a-yong-sheng-xun-xue-a-la
 https://chatgpt.com/g/g-67ead3bafc448191ad2eee494e37b74d-a-la-bo-yu-xue-xi-ji-yu-dong-ci-shi-shi
 
 **方法二(免費方案使用者推薦)**
-- 選定你要使用的提示詞與AI模型，打開專案內`.txt`結尾之文件並複製檔案中所有文字(建議使用Chat GPT-4o，付費方案佳，其他AI推薦使用Claude)
+- 選定你要使用的提示詞與AI模型，打開專案內`.md`結尾之對應文件(除**readme.md**外皆可用)並複製檔案中所有文字(建議使用Chat GPT-4o，付費方案佳，其他AI推薦使用Claude)
 - 於對話欄或專案功能所提供的指令欄位輸入前項複製之提示詞(prompt)
 - 啟動聖訓學習模式：輸入指令 `/start`。
 - 啟動詞根衍生學習模式：輸入指令 `/start`。
@@ -83,3 +83,4 @@ https://chatgpt.com/g/g-67ead3bafc448191ad2eee494e37b74d-a-la-bo-yu-xue-xi-ji-yu
 - 刪除動詞十式單字衍生器中關於單字驗證部分無效的敘述以提升模型生成速度並去除不必要的檢索動作。
 - 在動詞十式衍生器之中新增 `/search` 指令，現在衍生器可以支援詞根意義檢索。
 - 以上更新皆與線上GPT bot同步完成
+- 將所有檔案格式皆變更為`.md`格式以更完整支援markdown語法。
