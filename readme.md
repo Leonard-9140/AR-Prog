@@ -89,3 +89,6 @@ https://chatgpt.com/g/g-67ead3bafc448191ad2eee494e37b74d-a-la-bo-yu-xue-xi-ji-yu
 
 **v0.4.1(Apr.12, 2025)**
 - 更新動詞十式衍生器提示詞以進一步防止幻覺(Hallucination)
+
+**v0.4.2(Apr.13, 2025)**
+- 修正動詞十式衍生器`/voc`指令會因阿拉伯語輸出跑版的問題。
