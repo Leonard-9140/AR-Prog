@@ -105,3 +105,7 @@ https://chatgpt.com/g/g-67ead3bafc448191ad2eee494e37b74d-a-la-bo-yu-xue-xi-ji-yu
 - 增強幻覺防止，並且強制模型產出內容時需要標示**聖訓強弱**以及**聖訓出處**。
 - 預設難度仍為**初級**，但已從提示詞部分解禁更高難度內容。
 - 取消每次聖訓相關單字數量的限制。
+
+**v0.5.1(Apr.25, 2025)**
+- 聖訓單元GPT bot部分新增來自[hadeethenc.com](<https://hadeethenc.com/zh/home>)的資料，提高產出內容正確性。
+- GPT bot所使用之資料檔案已新增至專案內容中，檔案出處為[hadeethenc.com](<https://hadeethenc.com/zh/home>)
