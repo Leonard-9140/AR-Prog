@@ -65,7 +65,9 @@ https://chatgpt.com/g/g-67ead3bafc448191ad2eee494e37b74d-a-la-bo-yu-xue-xi-ji-yu
 - 於對話欄或專案功能所提供的指令欄位輸入前項複製之提示詞(prompt)
 
 ---
+## Contributor
 
+---
 ## 版本紀錄
 **v0.1.0(BETA)**
 - Minimum Viable Product
