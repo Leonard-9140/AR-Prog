@@ -68,6 +68,9 @@ https://chatgpt.com/g/g-67ead3bafc448191ad2eee494e37b74d-a-la-bo-yu-xue-xi-ji-yu
 
 ---
 ## Contributor
+- Leith C.
+- Leith H.
+- Heithem H.
 
 ---
 ## 版本紀錄
