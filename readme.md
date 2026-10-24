@@ -57,7 +57,7 @@
 ---
 
 ## 快速開始
-**方法一(推薦)**
+**方法一(推薦，然而官方已轉為使用skill plugin，請參閱官方說明)**
 使用以本專案內容製作之GPT機器人，輸入 `/start`以開始對話
 - 聖訓基礎學習機器人
 https://chatgpt.com/g/g-67ead1deae948191b043cbf8c7f3763a-yong-sheng-xun-xue-a-la-bo-yu
