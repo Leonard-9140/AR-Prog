@@ -1,7 +1,7 @@
 # 阿拉伯語 AI 學習計畫(Prompt Repository)
 
 ## 2026/10/24 update
-本專案庫先前須配合GPTs功能使用，然隨功能遭淘汰並轉向skill plugin，本庫轉為存放Prompt使用。GPTs原有功能仍可透過建立私有skill plugin方式在對話中使用。
+本專案庫先前須配合GPTs功能使用，然隨功能遭淘汰並轉向skill plugin，本庫轉為存放Prompt使用。GPTs原有功能仍可透過建立私有skill plugin方式在對話中使用。GPTs僅在2026/12/11前仍可用。
 
 ---
 
